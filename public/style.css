@@ -27,6 +27,12 @@ nav {
   display: flex;
   height: 80px;
   padding: 10px;
+  justify-content: space-around
+}
+
+nav a {
+  color: white;
+
 }
 
 main {
